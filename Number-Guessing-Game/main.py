@@ -5,7 +5,7 @@ def main():
     print("*** Number Guessing Game ***")
 
     low = 1
-    high =100
+    high =100 
 
     secret_number = generate_number(low, high)
     attempts =0
